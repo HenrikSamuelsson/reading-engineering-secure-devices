@@ -23,6 +23,7 @@ List of abbreviations used in the book.
 *NIST* - National Institute of Standards and Technology   
 
 *OT* - operational technology  
+*OWASP* - Open Web Application Security Project  
 
 *SDL* - secure development life cycle  
 
