@@ -2,14 +2,29 @@
 
 Notes on the book Engineering Secure Devices, Dominik Merli, No Starch Press (2024).
 
+## Platform
+
+The book includes a practical case study based on the [STM32MP157F-DK2](https://www.st.com/en/evaluation-tools/stm32mp157f-dk2.html) evaluation board from ST, and ST's [OpenSTLinux distribution](https://wiki.st.com/stm32mpu/wiki/Category:OpenSTLinux_distribution) with a Linux 5.15 kernel.
+
 ## Abbreviations
 
 List of abbreviations used in the book.
 
+*CSA* - Cybersecurity Act  
+*CRA* - Cyber Resilience Act  
+
 *DDoS* - distributed denial-of-service  
+
 *ICS* - industrial control systems  
+*IEC* - International Electrotechnical Commission  
+*IIoT* - industrial IoT  
 *IoT* - internet of things  
-*OT* - operational technology
+
+*NIST* - National Institute of Standards and Technology   
+
+*OT* - operational technology  
+
+*SDL* - secure development life cycle  
 
 ## Terms
 
