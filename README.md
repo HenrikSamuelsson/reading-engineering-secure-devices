@@ -88,7 +88,7 @@ List of terms defined in the book.
 
 *tampering* - manipulation of data
 
-*threat actor* - Person attacking a system, with intention to penetrate the security.
+*threat actor* - Person attacking a system with intention to penetrate the security
 
 *threat scenario* - Description of a possible way to attack a system, by exploiting a vulnerability, with intention to gain access to or prevent usage of an asset being an vital part of the system. 
 
