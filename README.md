@@ -33,6 +33,7 @@ List of abbreviations used in the book.
 *ENISA* - European Union for Agency for Cybersecurity
 
 *GDPR* - General Data Protection Regulation  
+*GUI* - graphical user interface  
 
 *I* - Integrity
 *ICS* - industrial control systems  
@@ -78,6 +79,8 @@ List of terms defined in the book.
 
 *Mirai* - malware that exploited IoT devices, turning them into botnets
 
+*penetration test* Test where internal or external people are assigned the task to attack our system or device to test the security
+
 *repudiation* - plausibility to deny an action 
 
 *Ripple20* - set of vulnerabilities in a software library that implements a TCP/IP stack
@@ -90,6 +93,6 @@ List of terms defined in the book.
 
 *threat actor* - Person attacking a system with intention to penetrate the security
 
-*threat scenario* - Description of a possible way to attack a system, by exploiting a vulnerability, with intention to gain access to or prevent usage of an asset being an vital part of the system. 
+*threat scenario* - Description of a possible way to attack a system, by exploiting a vulnerability, with intention to gain access to or prevent usage of an asset being an vital part of the system
 
-*vulnerability* - An exploitable weakness of a system, that can be used by an attacker to gain unprivileged access to a system asset.
+*vulnerability* - An exploitable weakness of a system, that can be used by an attacker to gain unprivileged access to a system asset
