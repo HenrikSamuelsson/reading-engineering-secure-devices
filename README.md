@@ -100,7 +100,6 @@ List of terms defined in the book.
 
 *Stuxnet* - computer worm that reportedly destroyed almost one-fifth of Iran's nuclear centrifuges
 
-
 *tampering* - manipulation of data
 
 *threat actor* - Person attacking a system with intention to penetrate the security
