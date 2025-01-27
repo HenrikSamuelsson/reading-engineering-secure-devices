@@ -94,9 +94,12 @@ List of terms defined in the book.
 
 *Ripple20* - set of vulnerabilities in a software library that implements a TCP/IP stack
 
-*Stuxnet* - computer worm that reportedly destroyed almost one-fifth of Iran's nuclear centrifuges
+*security by obscurity* - a security anti pattern based on having security by hiding details about a systems with intention to enhance security
 
 *spoofing* - impersonate an entity
+
+*Stuxnet* - computer worm that reportedly destroyed almost one-fifth of Iran's nuclear centrifuges
+
 
 *tampering* - manipulation of data
 
