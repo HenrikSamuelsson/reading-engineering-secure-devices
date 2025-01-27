@@ -6,16 +6,23 @@ Notes on the book Engineering Secure Devices, Dominik Merli, No Starch Press (20
 
 The book includes a practical case study based on the [STM32MP157F-DK2](https://www.st.com/en/evaluation-tools/stm32mp157f-dk2.html) evaluation board from ST, and ST's [OpenSTLinux distribution](https://wiki.st.com/stm32mpu/wiki/Category:OpenSTLinux_distribution) with a Linux 5.15 kernel.
 
+## Secure Development Process
+
+Development shall follow best practices to ensure security .Security Development Lifecycle (SDL) practices. There is no need to start from scratch, a starting point to setup a SDL can be to look at one of the following resources:
+- Security Development Lifecycle (SDL) practices at [Microsoft](https://www.microsoft.com/en-us/securityengineering/sdl/practices?oneroute=true)
+- Software Assurance Maturity Model (SAMM) provided by [OWASP](https://owaspsamm.org/model/) 
+- The [ISA/IEC 62443 Series of Standards](https://www.isa.org/standards-and-publications/isa-standards/isa-iec-62443-series-of-standards) with requirements and processes for secure industrial automation and control systems (IACS)
+
 ## Abbreviations
 
 List of abbreviations used in the book.
 
 *A* - availability  
-*An* - anonymity
+*An* - anonymity  
 *Au* - authenticity  
 
 *BOM* - bill of materials  
-*BSIMM* - Building Security In Maturity Model   
+*BSIMM* - Building Security In Maturity Model  
 
 *C* - confidentiality  
 *CI* - continuous integration  
@@ -30,17 +37,18 @@ List of abbreviations used in the book.
 *DoS* - denial of service  
 *DDoS* - distributed DoS  
 
-*ENISA* - European Union for Agency for Cybersecurity
+*ENISA* - European Union for Agency for Cybersecurity  
 
 *GDPR* - General Data Protection Regulation  
 
-*I* - Integrity
+*I* - Integrity  
+*IACS* - industrial automation and control systems  
 *ICS* - industrial control systems  
 *IEC* - International Electrotechnical Commission  
 *IIoT* - industrial IoT  
 *IoT* - internet of things  
 
-*NIST* - National Institute of Standards and Technology   
+*NIST* - National Institute of Standards and Technology  
 *Nr* - non-repudiation  
 *OT* - operational technology  
 *OS* - operating system  
@@ -56,7 +64,7 @@ List of abbreviations used in the book.
 *SBOM* - software bill of materials  
 *SDL* - secure development life cycle  
 *SE* - secure element  
-*STRIDE* - spoofing tampering repudiation information disclosure denial of service elevation of privilege  
+*STRIDE* - spoofing tampering repudiation information  disclosure denial of service elevation of privilege  
 
 ## Terms
 
@@ -89,6 +97,8 @@ List of terms defined in the book.
 *tampering* - manipulation of data
 
 *threat actor* - Person attacking a system with intention to penetrate the security
+
+*threat modeling* - The process of using hypothetical scenarios, system diagrams, and testing to help secure systems and data.
 
 *threat scenario* - Description of a possible way to attack a system, by exploiting a vulnerability, with intention to gain access to or prevent usage of an asset being an vital part of the system. 
 
