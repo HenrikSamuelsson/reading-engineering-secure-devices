@@ -13,6 +13,10 @@ Development shall follow best practices to ensure security .Security Development
 - Software Assurance Maturity Model (SAMM) provided by [OWASP](https://owaspsamm.org/model/) 
 - The [ISA/IEC 62443 Series of Standards](https://www.isa.org/standards-and-publications/isa-standards/isa-iec-62443-series-of-standards) with requirements and processes for secure industrial automation and control systems (IACS)
 
+## Kerckhoffs's Principle
+
+Kerckhoffs Principle states that the security of a crypto system must lie in the choice of its keys only; everything else (including the algorithm itself) should be considered public knowledge.
+
 ## Abbreviations
 
 List of abbreviations used in the book.
