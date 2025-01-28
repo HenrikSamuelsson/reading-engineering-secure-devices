@@ -15,7 +15,7 @@ Development shall follow best practices to ensure security .Security Development
 
 ## Kerckhoffs's Principle
 
-Kerckhoffs Principle states that the security of a crypto system must lie in the choice of its keys only; everything else (including the algorithm itself) should be considered public knowledge.
+Kerckhoffs Principle states that the security of a crypto system must lie in the choice of its keys only; everything else such as encryption, decryption, and signing, should be considered public knowledge.
 
 ## Abbreviations
 
@@ -76,9 +76,11 @@ List of terms defined in the book.
 
 *Amnesia:33* - set of thirty-three memory vulnerabilities affecting IoT devices
 
-*attack vector* - Path or method used to attack a system, with intention to gain unprivileged access to a system asset.
+*attack vector* - Path or method used to attack a system, with intention to gain unprivileged access to a system asset
 
-*denial of service* a way to interrupt a service
+*brute force attack* - Systematic attack where each possible secret key is tried one by one in order
+
+*denial of service* - a way to interrupt a service
 
 *elevation of privilege* a way to act without permission
 
@@ -94,7 +96,11 @@ List of terms defined in the book.
 
 *Ripple20* - set of vulnerabilities in a software library that implements a TCP/IP stack
 
+*search space* - The number of tries an attacker have to make to break the security algorithm, related to security level, 128 bits security level means 2^128 tries
+
 *security by obscurity* - a security anti pattern based on having security by hiding details about a systems with intention to enhance security
+
+*security level* Property of a cryptographic algorithm indicated by a certain bit length, 64-bit, 128-bit, and so on
 
 *spoofing* - impersonate an entity
 
