@@ -17,6 +17,17 @@ Development shall follow best practices to ensure security .Security Development
 
 Kerckhoffs Principle states that the security of a crypto system must lie in the choice of its keys only; everything else such as encryption, decryption, and signing, should be considered public knowledge.
 
+## Symmetric Cryptography
+
+Cryptography is based on transforming a plain text to a incomprehensible cipher text, encryption. And then reverse the cipher text back to the plain text, decryption. The benefit of having the cipher text is that we can share this with the world and still keep the plain text secret. 
+
+The encryption and decryption requires knowledge of a secret known as the key. There are a class of cryptography schemes that uses the same key to encrypt and decrypt, symmetric cryptography.  
+
+```text
+encrypt(plain text, key) : cipher text
+decrypt(cipher text, text) : plain text
+```
+
 ## Abbreviations
 
 List of abbreviations used in the book.
@@ -46,14 +57,19 @@ List of abbreviations used in the book.
 *GDPR* - General Data Protection Regulation  
 
 *I* - Integrity  
+*IC* - Integrated Circuit  
 *IACS* - industrial automation and control systems  
 *ICS* - industrial control systems  
 *IEC* - International Electrotechnical Commission  
 *IIoT* - industrial IoT  
 *IoT* - internet of things  
 
+*MAC* - message authentication code  
+*MIC* - message integrity code  
+
 *NIST* - National Institute of Standards and Technology  
 *Nr* - non-repudiation  
+
 *OT* - operational technology  
 *OS* - operating system  
 *OWASP* - Open Web Application Security Project  
@@ -63,6 +79,8 @@ List of abbreviations used in the book.
 *Ps* - pseudonymity  
 *PSA* - Platform Security Architecture  
 *PSO* - Product Security Officer  
+
+*RNG* - random number generators  
 
 *SAST* - static application security testing  
 *SBOM* - software bill of materials  
@@ -79,6 +97,8 @@ List of terms defined in the book.
 *attack vector* - Path or method used to attack a system, with intention to gain unprivileged access to a system asset
 
 *brute force attack* - Systematic attack where each possible secret key is tried one by one in order
+
+*cipher* - an algorithm for performing encryption or decryption
 
 *denial of service* - a way to interrupt a service
 
