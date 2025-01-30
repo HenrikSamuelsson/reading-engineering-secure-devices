@@ -42,6 +42,7 @@ List of abbreviations used in the book.
 *C* - confidentiality  
 *CI* - continuous integration  
 *CIA* - confidentiality integrity availability  
+*CMOS* - complementary metal-oxide semiconductor  
 *CRA* - Cyber Resilience Act  
 *CRC* - cyclic redundancy check  
 *CSA* - Cybersecurity Act  
@@ -51,6 +52,7 @@ List of abbreviations used in the book.
 *DAST* - dynamic application security testing  
 *DoS* - denial of service  
 *DDoS* - distributed DoS  
+*DRBG* - deterministic random bit generators  
 
 *ENISA* - European Union for Agency for Cybersecurity  
 
@@ -69,6 +71,7 @@ List of abbreviations used in the book.
 
 *NIST* - National Institute of Standards and Technology  
 *Nr* - non-repudiation  
+*NRBG* - nondeterministic random bit generator  
 
 *OT* - operational technology  
 *OS* - operating system  
@@ -80,13 +83,17 @@ List of abbreviations used in the book.
 *PSA* - Platform Security Architecture  
 *PSO* - Product Security Officer  
 
-*RNG* - random number generators  
+*RNG* - random number generator  
+*RO* - ring oscillator  
 
 *SAST* - static application security testing  
 *SBOM* - software bill of materials  
 *SDL* - secure development life cycle  
 *SE* - secure element  
+*SSH* - secure shell  
 *STRIDE* - spoofing tampering repudiation information  disclosure denial of service elevation of privilege  
+
+*TRNG* - true RNG  
 
 ## Terms
 
@@ -106,13 +113,19 @@ List of terms defined in the book.
 
 *embedded system* - an electronic system including a processing unit, memory, and input/output interfaces that are embedded within a larger mechanical or electronic system
 
+*entropy* - Measure of unpredictability, system with high disorder will have high entropy
+
 *information disclosure* - a way to extract information
 
 *insecurity by design* - term coined when analyzing products that showed to have missed event the most basic security controls
 
 *Mirai* - malware that exploited IoT devices, turning them into botnets
 
+*pseudo randomness* - Output that appear random but in reality is completely deterministic, and don't contain an entropy sources
+
 *repudiation* - plausibility to deny an action 
+
+*ring oscillator* - electronic circuit used to generate noise to be used for random number generation
 
 *Ripple20* - set of vulnerabilities in a software library that implements a TCP/IP stack
 
@@ -133,5 +146,7 @@ List of terms defined in the book.
 *threat modeling* - The process of using hypothetical scenarios, system diagrams, and testing to help secure systems and data.
 
 *threat scenario* - Description of a possible way to attack a system, by exploiting a vulnerability, with intention to gain access to or prevent usage of an asset being an vital part of the system. 
+
+*true randomness* - Output that is totally unpredictable, without any pattern
 
 *vulnerability* - An exploitable weakness of a system, that can be used by an attacker to gain unprivileged access to a system asset.
