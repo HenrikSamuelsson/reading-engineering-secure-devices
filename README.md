@@ -45,6 +45,7 @@ List of abbreviations used in the book.
 *CMOS* - complementary metal-oxide semiconductor  
 *CRA* - Cyber Resilience Act  
 *CRC* - cyclic redundancy check  
+*CRT* - Chinese remainder theorem  
 *CSA* - Cybersecurity Act  
 *CTO* - Chief Technical Officer  
 *CVEs* - common vulnerabilities and exposures   
@@ -54,9 +55,12 @@ List of abbreviations used in the book.
 *DDoS* - distributed DoS  
 *DRBG* - deterministic random bit generators  
 
+*ECDSA* - Elliptic Curve Digital Signature Algorithm  
 *ENISA* - European Union for Agency for Cybersecurity  
 
 *GDPR* - General Data Protection Regulation  
+
+*HMAC* - hash-based MAC  
 
 *I* - Integrity  
 *IC* - Integrated Circuit  
@@ -85,6 +89,7 @@ List of abbreviations used in the book.
 
 *RNG* - random number generator  
 *RO* - ring oscillator  
+*RSA* - Rivest Shamir Adleman
 
 *SAST* - static application security testing  
 *SBOM* - software bill of materials  
