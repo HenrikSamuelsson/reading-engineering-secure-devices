@@ -1,10 +1,21 @@
 {
     "cSpell.words": [
+        "Adleman",
         "BSIMM",
+        "CMOS",
         "Dominik",
+        "DRBG",
         "Electrotechnical",
         "ENISA",
+        "HMAC",
+        "IACS",
+        "Kerckhoffs",
         "Merli",
-        "Stuxnet"
+        "NRBG",
+        "Rivest",
+        "SAMM",
+        "Shamir",
+        "Stuxnet",
+        "TRNG"
     ]
 }
