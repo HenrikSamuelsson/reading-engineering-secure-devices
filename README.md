@@ -58,6 +58,9 @@ List of abbreviations used in the book.
 *ECDSA* - Elliptic Curve Digital Signature Algorithm  
 *ENISA* - European Union for Agency for Cybersecurity  
 
+*FBE* - file-based encryption  
+*FDE* - full-disk encryption  
+
 *GDPR* - General Data Protection Regulation  
 *GUI* - graphical user interface  
 
@@ -70,6 +73,8 @@ List of abbreviations used in the book.
 *IEC* - International Electrotechnical Commission  
 *IIoT* - industrial IoT  
 *IoT* - internet of things  
+
+*LUKS* - Linux Unified Key Setup  
 
 *MAC* - message authentication code  
 *MIC* - message integrity code  

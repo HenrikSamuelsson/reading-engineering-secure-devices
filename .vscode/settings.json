@@ -10,6 +10,7 @@
         "HMAC",
         "IACS",
         "Kerckhoffs",
+        "LUKS",
         "Merli",
         "NRBG",
         "Rivest",
