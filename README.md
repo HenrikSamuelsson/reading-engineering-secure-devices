@@ -107,11 +107,13 @@ List of terms defined in the book.
 
 *Amnesia:33* - set of thirty-three memory vulnerabilities affecting IoT devices
 
-*attack vector* - Path or method used to attack a system, with intention to gain unprivileged access to a system asset
+*attack vector* - path or method used to attack a system, with intention to gain unprivileged access to a system asset
 
-*brute force attack* - Systematic attack where each possible secret key is tried one by one in order
+*brute force attack* - systematic attack where each possible secret key is tried one by one in order
 
 *cipher* - an algorithm for performing encryption or decryption
+
+*code lifting attack* - taking a binary as is to use on another compatible hardware
 
 *denial of service* - a way to interrupt a service
 
@@ -119,7 +121,7 @@ List of terms defined in the book.
 
 *embedded system* - an electronic system including a processing unit, memory, and input/output interfaces that are embedded within a larger mechanical or electronic system
 
-*entropy* - Measure of unpredictability, system with high disorder will have high entropy
+*entropy* - measure of unpredictability, system with high disorder will have high entropy
 
 *information disclosure* - a way to extract information
 
@@ -127,10 +129,9 @@ List of terms defined in the book.
 
 *Mirai* - malware that exploited IoT devices, turning them into botnets
 
+*penetration test* - test where internal or external people are assigned the task to attack our system or device to test the security
 
-*penetration test* - Test where internal or external people are assigned the task to attack our system or device to test the security
-
-*pseudo randomness* - Output that appear random but in reality is completely deterministic, and don't contain an entropy sources
+*pseudo randomness* - output that appear random but in reality is completely deterministic, and don't contain an entropy sources
 
 *repudiation* - plausibility to deny an action 
 
@@ -138,11 +139,11 @@ List of terms defined in the book.
 
 *Ripple20* - set of vulnerabilities in a software library that implements a TCP/IP stack
 
-*search space* - The number of tries an attacker have to make to break the security algorithm, related to security level, 128 bits security level means 2^128 tries
+*search space* - the number of tries an attacker have to make to break the security algorithm, related to security level, 128 bits security level means 2^128 tries
 
 *security by obscurity* - a security anti pattern based on having security by hiding details about a systems with intention to enhance security
 
-*security level* Property of a cryptographic algorithm indicated by a certain bit length, 64-bit, 128-bit, and so on
+*security level* property of a cryptographic algorithm indicated by a certain bit length, 64-bit, 128-bit, and so on
 
 *spoofing* - impersonate an entity
 
@@ -150,12 +151,12 @@ List of terms defined in the book.
 
 *tampering* - manipulation of data
 
-*threat actor* - Person attacking a system with intention to penetrate the security
+*threat actor* - person attacking a system with intention to penetrate the security
 
-*threat modeling* - The process of using hypothetical scenarios, system diagrams, and testing to help secure systems and data.
+*threat modeling* - the process of using hypothetical scenarios, system diagrams, and testing to help secure systems and data.
 
-*threat scenario* - Description of a possible way to attack a system, by exploiting a vulnerability, with intention to gain access to or prevent usage of an asset being an vital part of the system. 
+*threat scenario* - description of a possible way to attack a system, by exploiting a vulnerability, with intention to gain access to or prevent usage of an asset being an vital part of the system. 
 
-*true randomness* - Output that is totally unpredictable, without any pattern
+*true randomness* - output that is totally unpredictable, without any pattern
 
-*vulnerability* - An exploitable weakness of a system, that can be used by an attacker to gain unprivileged access to a system asset.
+*vulnerability* - an exploitable weakness of a system, that can be used by an attacker to gain unprivileged access to a system asset
