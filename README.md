@@ -33,6 +33,7 @@ decrypt(cipher text, text) : plain text
 List of abbreviations used in the book.
 
 *A* - availability  
+*AES* - advanced encryption standard  
 *An* - anonymity  
 *Au* - authenticity  
 
@@ -105,10 +106,13 @@ List of abbreviations used in the book.
 *STRIDE* - spoofing tampering repudiation information  disclosure denial of service elevation of privilege  
 
 *TRNG* - true RNG  
+*TPM* - trusted platform module  
 
 ## Terms
 
 List of terms defined in the book.
+
+*Advanced Encryption Standard* - specification for encryption of electronic data
 
 *Amnesia:33* - set of thirty-three memory vulnerabilities affecting IoT devices
 
