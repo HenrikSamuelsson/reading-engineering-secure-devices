@@ -12,11 +12,13 @@
         "Kerckhoffs",
         "LUKS",
         "Merli",
+        "Mirai",
         "NRBG",
         "Rivest",
         "SAMM",
         "Shamir",
         "Stuxnet",
-        "TRNG"
+        "TRNG",
+        "unclonable"
     ]
 }

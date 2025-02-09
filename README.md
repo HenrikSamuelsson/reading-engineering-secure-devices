@@ -64,6 +64,7 @@ List of abbreviations used in the book.
 
 *GDPR* - General Data Protection Regulation  
 *GUI* - graphical user interface  
+*GUIDs* - globally unique identifiers  
 
 *HMAC* - hash-based MAC  
 
@@ -93,6 +94,7 @@ List of abbreviations used in the book.
 *Ps* - pseudonymity  
 *PSA* - Platform Security Architecture  
 *PSO* - Product Security Officer  
+*PUF* - physical unclonable functions  
 
 *RNG* - random number generator  
 *RO* - ring oscillator  
