@@ -41,11 +41,13 @@ List of abbreviations used in the book.
 *BSIMM* - Building Security In Maturity Model  
 
 *C* - confidentiality  
+*CA* - certificate authority  
 *CI* - continuous integration  
 *CIA* - confidentiality integrity availability  
 *CMOS* - complementary metal-oxide semiconductor  
 *CRA* - Cyber Resilience Act  
 *CRC* - cyclic redundancy check  
+*CRL* - certificate revocation list  
 *CRT* - Chinese remainder theorem  
 *CSA* - Cybersecurity Act  
 *CTO* - Chief Technical Officer  
@@ -58,6 +60,7 @@ List of abbreviations used in the book.
 
 *ECDSA* - Elliptic Curve Digital Signature Algorithm  
 *ENISA* - European Union for Agency for Cybersecurity  
+*EMS* - electronics manufacturing services  
 
 *FBE* - file-based encryption  
 *FDE* - full-disk encryption  
@@ -80,16 +83,19 @@ List of abbreviations used in the book.
 
 *MAC* - message authentication code  
 *MIC* - message integrity code  
+*MFA* - multifactor authentication
 
 *NIST* - National Institute of Standards and Technology  
 *Nr* - non-repudiation  
 *NRBG* - nondeterministic random bit generator  
 
-*OT* - operational technology  
+*OCSP* - Online Certificate Status Protocol  
 *OS* - operating system  
+*OT* - operational technology  
 *OWASP* - Open Web Application Security Project  
 
 *PCB* - printed circuit board  
+*PKI* - public-key infrastructure  
 *Pr* - privacy  
 *Ps* - pseudonymity  
 *PSA* - Platform Security Architecture  
@@ -109,6 +115,7 @@ List of abbreviations used in the book.
 
 *TRNG* - true RNG  
 *TPM* - trusted platform module  
+*TTP* - trusted third party  
 
 ## Terms
 
